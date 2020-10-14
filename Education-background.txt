@@ -1,0 +1,5 @@
+id	Poll
+High School	0
+Undergraduate Degree	8
+Graduate Degree	7
+Post-graduate	35
