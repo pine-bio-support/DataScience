@@ -1,0 +1,2 @@
+id	High_school	UG	Graduate	PG
+numbers	0	8	7	35
